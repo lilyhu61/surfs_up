@@ -16,7 +16,7 @@ What we found as following:
  
  
  
-- Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference in the two different seasons
+- Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference between two seasons
 
 ## Summary
 Since there are other attributes to the weather such as all the precipitation for the month of June and December. It shows we can run additional queries to let us know whether or not people can come and visit the shop. Queries will look like as following:
